@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image: assets/images/B97I7734.jpg
+image: assets/images/880EC29A-C316-457A-A18B-5FBCAD172924_1_201_a.heic
 nav-menu: true
 ---
 
