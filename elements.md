@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/880EC29A-C316-457A-A18B-5FBCAD172924_1_201_a.heic
+image: assets/images/IMG_9378.jpeg
 nav-menu: true
 ---
 
