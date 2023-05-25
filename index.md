@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Andrea Lane, PhD'
+landing-title: 'Andrea Lane'
 description: null
 image: null
 author: null
