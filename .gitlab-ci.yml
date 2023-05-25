@@ -10,3 +10,6 @@ pages:
     - public
   only:
   - master
+  - uses: helaili/jekyll-action@v2
+     with:
+       target_branch: 'gh-pages'
