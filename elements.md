@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About Me
 image: assets/images/880EC29A-C316-457A-A18B-5FBCAD172924_1_201_a.heic
 nav-menu: true
 ---
