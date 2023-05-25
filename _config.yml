@@ -40,3 +40,10 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
