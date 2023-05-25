@@ -1,7 +1,19 @@
-source 'https://rubygems.org'
+#source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.2'
+#gem 'jekyll', '~> 4.2'
 
-group :jekyll_plugins do
-  gem 'jekyll-timeago', '~> 0.13.1'
-end
+#group :jekyll_plugins do
+#  gem 'jekyll-timeago', '~> 0.13.1'
+#end
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# Manage our dependency on the version of the github-pages gem here.
+gem "github-pages", "= 228"
+
+# Explicitly include this gem here.
+# It is not directly included in the github-pages gem list of dependencies,
+# even though it is included in the original GitHub Pages build infrastructure.
+gem "jekyll-include-cache", "= 0.2.1"
+gem "jekyll-octicons", "~> 14.2"
