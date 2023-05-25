@@ -1,6 +1,6 @@
 # site settings
-title: Andrea Lane, PhD
-subtitle: Assistant Professor of the Practice, Duke University
+#title: Andrea Lane, PhD
+#subtitle: Duke University
 email: andrea.lane@duke.edu
 description: Assistant Professor of the Practice, Duke University
 baseurl: "/andrea-lane" # the subpath of your site, e.g. /blog
