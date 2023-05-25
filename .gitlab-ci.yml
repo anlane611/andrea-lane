@@ -1,16 +1,12 @@
- - uses: helaili/jekyll-action@v2
-     with:
-       target_branch: 'master'
-       
-  #image: ruby
+image: ruby
 
-#pages:
-#  stage: build
-#  script:
-#  - gem install jekyll
-#  - jekyll build -d public
-#  artifacts:
-#    paths:
- #   - public
- # only:
- # - master
+pages:
+  stage: build
+  script:
+  - gem install jekyll
+  - jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
