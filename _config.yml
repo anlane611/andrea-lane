@@ -4,7 +4,7 @@ subtitle: Assistant Professor of the Practice, Duke University
 email: andrea.lane@duke.edu
 description: Assistant Professor of the Practice, Duke University
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: https://andrea-lane-stat.github.io # the base hostname & protocol for your site
+url:  # the base hostname & protocol for your site
 author:
 street_address: 140 Science Dr
 city: Durham
@@ -13,7 +13,7 @@ zip_code: 27708
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
