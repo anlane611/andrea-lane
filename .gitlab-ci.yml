@@ -12,4 +12,4 @@ pages:
   - master
   - uses: helaili/jekyll-action@v2
      with:
-       target_branch: 'gh-pages'
+       target_branch: 'master'
